@@ -1,15 +1,4 @@
 
-ArduEMS-328
-===========
-
-Arduino Engine Management System for Arduino boards with the ATmega328p.
-The supported board are:
- - Arduino Uno
- - Arduino Duemilanove
- - Arduino Diecimila
- - Arduino NG
- - Arduino Extreme v2
- - Arduino Extreme
 
 Uploading the Firmware
 ======================
